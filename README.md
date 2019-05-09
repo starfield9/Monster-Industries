@@ -4,7 +4,7 @@ The original map v3 may be found at https://www.minecraftforum.net/forums/mappin
 
 The following is a compilation of the above map’s descriptions plus features that was added in this edited version.
 
-#__**STILL A WORK IN PROGRESS! INFORMATION MAY NOT BE CORRECT!**__
+__**STILL A WORK IN PROGRESS! INFORMATION MAY NOT BE CORRECT!**__
 ----------
 
 1.13.2 PVP Map - Monster Industries
