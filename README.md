@@ -4,7 +4,6 @@ The original map v3 may be found at https://www.minecraftforum.net/forums/mappin
 
 The following is a compilation of the above map’s descriptions plus features that was added in this edited version.
 
-__**STILL A WORK IN PROGRESS! INFORMATION MAY NOT BE CORRECT!**__
 ----------
 
 1.13.2 PVP Map - Monster Industries
@@ -30,9 +29,6 @@ AND ALSO:
 - Upgrade your resource production, so you can build bigger armies quicker.
 - Buy slave workers to sign Papers for you! (No, the Monster Industry ain't pretty)
 - Employ business strategies that even executives only speak of in whispers. Infect the other company's employees with disease! Shut down their power supply! Destroy the pipings and flood their building with water! And more!
-
-.
-
 - Name your monsters, to give your opponents a more personalized hell.
 
 MORE INFO:
@@ -41,3 +37,22 @@ MORE INFO:
 - Respawn when you die, and keep all your items to make the game experience more fluid.
 - New blocks and features from 1.13!
 - Spectate games with spectator mode!
+
+CHANGES FROM 1.8 map:
+
+- Reset map without resetting the world!
+- A working wither!
+- Deathmatch
+- Guide book
+- Redone system for 1.13 mobs
+- New generators, upgradable to level 6 (even paper)!
+- Sentry Turrents
+- Better Spectator mode!
+
+CHANGES FROM 1.13 map:
+
+- Improved lobby system:
+  - Show players in scoreboard
+  - Check for fair, not empty teams!
+- Completly redone book tutorials!
+- Generator level indicator
