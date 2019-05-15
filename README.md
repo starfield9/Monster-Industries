@@ -39,5 +39,5 @@ MORE INFO:
 
 - 2 teams control two companies: Creeper Corp. and Ender Enterprises! Choose the number of players yourselves - 3 per team is recommended.
 - Respawn when you die, and keep all your items to make the game experience more fluid.
-- New blocks and features from 1.8!
-- Spectate games with the new spectator mode!
+- New blocks and features from 1.13!
+- Spectate games with spectator mode!
