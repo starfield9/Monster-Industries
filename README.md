@@ -1,4 +1,4 @@
-# Monster Industries v3.1 WIP
+# Monster Industries v4 WIP
 
 The original map v3 may be found at https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/2919677-monsters-industries-3-0-1-13. The original map has unfortunately been purged by the minecraft forum’s purge when they transferred content to twitch. You can find that one on the web archive here: https://web.archive.org/web/20180117184857/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/2210670-monster-industries-pvp
 
