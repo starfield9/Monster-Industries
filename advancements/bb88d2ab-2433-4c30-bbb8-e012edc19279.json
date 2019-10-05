@@ -4,5 +4,11 @@
       "has_paper": "2019-09-26 18:24:27 -0700"
     },
     "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-10-04 20:17:47 -0700"
+    },
+    "done": true
   }
 }
