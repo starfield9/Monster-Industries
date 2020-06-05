@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Beta Tester",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Played at least one game while in beta",
+            "color": "gold"
+        },
+        "icon": {
+            "item": "minecraft:emerald"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "t": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "monsterindustries:root"
+}

@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "display": {
+        "title": {
+            "bold": false,
+            "color": "blue",
+            "text": "Monster Industries"
+        },
+        "description": {
+            "color": "black",
+            "text": "Custom advancements for Monster Industries"
+        },
+        "icon": {
+            "item": "minecraft:zombie_head"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    }
+}

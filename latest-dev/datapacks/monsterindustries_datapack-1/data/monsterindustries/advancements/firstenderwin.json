@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "commandsonly": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "display": {
+        "title": {
+            "color": "light_purple",
+            "text": "First Ender Win"
+        },
+        "description": {
+            "text": "Win as Ender Enterprises",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:\"MHF_Enderman\"}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "monsterindustries:root"
+}
