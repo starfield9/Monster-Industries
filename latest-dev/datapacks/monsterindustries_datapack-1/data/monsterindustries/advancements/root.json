@@ -11,8 +11,8 @@
             "text": "Monster Industries"
         },
         "description": {
-            "color": "black",
-            "text": "Custom advancements for Monster Industries"
+            "text": "Custom advancements for Monster Industries",
+            "color": "dark_blue"
         },
         "icon": {
             "item": "minecraft:zombie_head"
