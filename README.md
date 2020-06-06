@@ -1,6 +1,6 @@
 # Monster Industries v4 WIP
 
-Runs on 1.13.2 vanilla minecraft server, 1.13.2 carpet mod (because I use it to test with fake players, but its basically vanilla) or [paper 1.13.2 version 655](https://papermc.io/api/v1/paper/1.13.2/655/download). If you use paper, please enable save-empty-scoreboard-teams and allow-non-player-entities-on-scoreboards in paper.yml BEFORE loading the world; Otherwise, the map WILL NOT work. I will not accept bug reports when using server software or versions other than these.
+Runs on 1.13.2 vanilla minecraft server, 1.13.2 carpet mod (because I use it to test with fake players, but it's basically vanilla) or [paper 1.13.2 version 655](https://papermc.io/api/v1/paper/1.13.2/655/download). If you use paper, please enable save-empty-scoreboard-teams and allow-non-player-entities-on-scoreboards in paper.yml BEFORE loading the world; Otherwise, the map WILL NOT work. I will not accept bug reports when using server software or versions other than these.
 
 The original map v3 may be found at https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/2919677-monsters-industries-3-0-1-13. The original map has unfortunately been purged by the minecraft forum’s purge when they transferred content to twitch. You can find that one on the web archive here: https://web.archive.org/web/20180117184857/https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/2210670-monster-industries-pvp
 
