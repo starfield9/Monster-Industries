@@ -58,4 +58,8 @@ CHANGES FROM 1.13 map:
   - Check for fair, not empty teams!
 - Completly redone book tutorials!
 - Generator level indicator
-
+- Grace Period
+- Ability to join mid-game to team with least # of players (togglable)
+- Auto-forfeit teams that are empty or all AFK for 1 minute
+- Coward paper system for when your side is overrun by mobs
+- Coward food villager
