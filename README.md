@@ -63,3 +63,4 @@ CHANGES FROM 1.13 map:
 - Auto-forfeit teams that are empty or all AFK for 1 minute
 - Coward paper system for when your side is overrun by mobs
 - Coward food villager
+- Advancements (WIP)
